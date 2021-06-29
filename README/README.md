@@ -1,5 +1,6 @@
-The purpose of this project is to generate passwords using javascript
-it appears i have an error on line 68 but i do not know how to fix it.
+The purpose of this project is to generate passwords using javascript.
+relies on users criteria preference to generate a random password.
+Enter a password length between 8 & 128. You will be guided with messages for the password criteria.
 
 
 
